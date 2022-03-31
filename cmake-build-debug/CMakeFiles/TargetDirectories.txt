@@ -1,0 +1,10 @@
+/Users/marianneandersen/Documents/lab-week-13/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/marianneandersen/Documents/lab-week-13/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/marianneandersen/Documents/lab-week-13/cmake-build-debug/CMakeFiles/test.dir
+/Users/marianneandersen/Documents/lab-week-13/cmake-build-debug/tests/CMakeFiles/rebuild_cache.dir
+/Users/marianneandersen/Documents/lab-week-13/cmake-build-debug/tests/CMakeFiles/edit_cache.dir
+/Users/marianneandersen/Documents/lab-week-13/cmake-build-debug/tests/CMakeFiles/test.dir
+/Users/marianneandersen/Documents/lab-week-13/cmake-build-debug/examples/CMakeFiles/rebuild_cache.dir
+/Users/marianneandersen/Documents/lab-week-13/cmake-build-debug/examples/CMakeFiles/edit_cache.dir
+/Users/marianneandersen/Documents/lab-week-13/cmake-build-debug/examples/CMakeFiles/test.dir
+/Users/marianneandersen/Documents/lab-week-13/cmake-build-debug/examples/CMakeFiles/main.dir
